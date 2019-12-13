@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CinemaTalk</string>
+
+    <string name="judul">Judul</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="directors">Directors</string>
+    <string name="writers">Writers</string>
+
+</resources>
